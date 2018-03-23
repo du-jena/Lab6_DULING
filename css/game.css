@@ -1,0 +1,22 @@
+.background    { background-image: url("http://78.media.tumblr.com/a38f7cb314c5d86d9a9c95abd8da929d/tumblr_nln08cX1eY1qfpd3wo1_1280.gif");
+                 background-size: 1600px 475px;
+                 table-layout: fixed;
+                 border-spacing: 0;   }
+.background td { padding: 0;          }
+.lava          { background-image: url("http://dullahansoft.com/pixel/wp-content/uploads/2015/03/water.png") }
+.wall          { background: #E5EAF5;   }
+.floater       { background: black;   }
+
+.actor  { position: absolute;  }
+.player { background: #C70039; }
+
+.game {
+  overflow: hidden;
+  max-width: 600px;
+  max-height: 450px;
+  position: relative;
+}
+
+body {
+      background-color: #0B2354;
+}
